@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab.epfl.ch"]
+	sslCAInfo = /Users/seyed/Dropbox/smoosavi.github.io/builds/73866fc1/0/test/awesome.tmp/CI_SERVER_TLS_CA_FILE
